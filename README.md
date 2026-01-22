@@ -8,7 +8,7 @@
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![W&B](https://img.shields.io/badge/Weights_&_Biases-integrated-yellow.svg)](https://wandb.ai)
 
-  **Bridge your ML experiment tracking with AI assistants through the Model Context Protocol**
+  **🔬 Bridge your ML experiment tracking with AI assistants through the Model Context Protocol**
 
   [Features](#features) · [Quick Start](#quick-start) · [Usage](#usage) · [API Reference](#api-reference)
 </div>
