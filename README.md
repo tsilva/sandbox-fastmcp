@@ -7,7 +7,7 @@
   [![FastMCP](https://img.shields.io/badge/FastMCP-2.x-green.svg)](https://github.com/jlowin/fastmcp)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-  **A sandbox project for learning the [FastMCP](https://gofastmcp.com) framework.**
+  **⚡ Sandbox for learning the FastMCP framework 🔌**
 </div>
 
 ---
