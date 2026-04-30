@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="sandbox-fastmcp" width="512"/>
+  <img src="https://raw.githubusercontent.com/tsilva/sandbox-fastmcp/main/logo.png" alt="sandbox-fastmcp" width="512"/>
 
   # sandbox-fastmcp
 
