@@ -1,14 +1,14 @@
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/tsilva/sandbox-fastmcp/main/logo.png" alt="sandbox-fastmcp" width="512"/>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>⚡ Sandbox for learning the FastMCP framework 🔌</strong>
+  <!-- repo-tagline:end -->
+</p>
 
-  # sandbox-fastmcp
-
-  [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
+[![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
   [![FastMCP](https://img.shields.io/badge/FastMCP-2.x-green.svg)](https://github.com/jlowin/fastmcp)
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
-  **⚡ Sandbox for learning the FastMCP framework 🔌**
-</div>
 
 ---
 
