@@ -57,4 +57,4 @@ fastmcp run server.py:mcp --transport http --port 8000
 
 ## License
 
-MIT
+[MIT License](LICENSE).
